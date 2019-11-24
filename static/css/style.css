@@ -1,1 +1,10 @@
-# This is a craigslist clone clone called codedaddie_list
+.card {
+    height: 400px; /* Your height here */
+    overflow: hidden;
+}
+
+.card-image {
+    height: 250px; /* Your height here */
+    width: 200px;
+    overflow: hidden;
+}
